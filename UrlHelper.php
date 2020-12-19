@@ -1,5 +1,7 @@
 <?php
 
+// Get a list of URLs, check status code and output a csv file.
+
 class UrlHelper{
 
 	private $urls;
